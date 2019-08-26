@@ -1,0 +1,3 @@
+targets:
+  graphcool: local/cjzpwr5l600040173oa9ykvup
+  default: graphcool

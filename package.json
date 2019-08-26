@@ -1,9 +1,15 @@
 {
   "name": "graphcool",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
+  "description": "My Graphcool Service",
   "dependencies": {
+    "@apollo/react-hooks": "^3.0.1",
+    "apollo-boost": "^0.4.4",
+    "apollo-client": "^2.6.4",
+    "graphql": "^14.5.3",
+    "graphql-tag": "^2.10.1",
     "react": "^16.9.0",
+    "react-apollo": "^3.0.1",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1"
   },
